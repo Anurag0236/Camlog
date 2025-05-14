@@ -7,11 +7,10 @@ CamLog is an industry-oriented, full-stack web application designed to digitize 
 
 - 🎯 Facial Recognition-Based Attendance
 - 🧑‍💼 Role-Based Access (Admin, Faculty, Student)
-- 📊 Real-Time Dashboard & Attendance Reports
+- 📊 Real-Time Attendance Reports
 - 📸 Integrated Webcam Access for Face Scanning
-- 📅 Daily/Weekly/Monthly Attendance Logs
+- 📅 Attendance Logs
 - 🔐 Secure Authentication System
-- 💬 User Notifications and Alerts
 
 ## 📸 Tech Stack
 
