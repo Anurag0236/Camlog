@@ -29,7 +29,7 @@ CamLog is an industry-oriented, full-stack web application designed to digitize 
 - *(Optional: React or Vue.js if used)*
 
 
- Installation
+--Installation
 
 1. Clone the Repository
    git clone 
