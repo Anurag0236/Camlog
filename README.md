@@ -29,36 +29,25 @@ CamLog is an industry-oriented, full-stack web application designed to digitize 
 - **AJAX / Fetch API**: For smooth frontend-backend data flow.
 - *(Optional: React or Vue.js if used)*
 
-## 📁 Project Structure (Simplified)
 
-CamLog/
-├── backend/
-│ ├── camlog/ # Django project
-│ ├── attendance/ # Core app: models, views, APIs
-│ ├── templates/ # HTML templates
-│ └── static/ # Static files (CSS, JS)
-├── media/ # Captured face images
-├── manage.py
-└── requirements.txt
-
-## 🛠️ Installation
+ Installation
 
 1. Clone the Repository
    git clone 
    cd camlog
 
-2.Create Virtual Environment & Activate
+2. Create Virtual Environment & Activate
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 
-3.install Dependencies
+3. install Dependencies
    pip install -r requirements.txt
 
-4.Run Migrations
+4. Run Migrations
    python manage.py migrate
 
-5.Start Development Server
+5. Start Development Server
    python manage.py runserver
 
 
