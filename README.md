@@ -9,7 +9,7 @@ CamLog is an industry-oriented, full-stack web application designed to digitize 
 - 🧑‍💼 Role-Based Access (Admin, Faculty, Student)
 - 📊 Real-Time Attendance Reports
 - 📸 Integrated Webcam Access for Face Scanning
-- 📅 Attendance Logs
+- 📅 Attendance the Logs 
 - 🔐 Secure Authentication System
 
 ## 📸 Tech Stack
@@ -43,8 +43,10 @@ CamLog is an industry-oriented, full-stack web application designed to digitize 
 3. install Dependencies
    pip install -r requirements.txt
 
+
 4. Run Migrations
    python manage.py migrate
+
 
 5. Start Development Server
    python manage.py runserver
